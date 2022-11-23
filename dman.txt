@@ -1,0 +1,11 @@
+Ecart 1000
+Ecom 1001
+Ecart 1001
+Ecom 1000
+Amazon 1000
+Flipkart 1000
+Paytm 1000
+Amazon 1001
+Paytm 1001
+Flipkart 1001
+Bluedart 1000

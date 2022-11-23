@@ -1,0 +1,5 @@
+From:geu Courier Management System<geucouriermanagement@gmail.com>
+To:'Dear Customer' <das.8@geu.ac.in>
+Subject: Parcel CheckIn
+There is a parcel for you with Parcel Id 3677. Use 3296 as OTP during checkout. 
+ This is automatically genrated e-mail, Don't reply to it.
